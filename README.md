@@ -12,11 +12,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+AI-BOT-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+TCRONEB;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-KG_TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-TCB_HACKX-red.svg?style=for-the-badge&logo=github"></a>
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Kgtech-cmr"><img title="Author" src="https://img.shields.io/badge/KGTECH-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237656520674"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/TCRONEBHACKX-MD-cmr"><img title="Author" src="https://img.shields.io/badge/TCRONEBHACKX-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/0029Vafg8mVLtOj6eAvlZO0w"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/263716394979"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 <p align="center">
 <a href="https://github.com/Kgtech-cmr/KERM_MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kgtech-cmr/KERM_MD-V2?color=white&style=flat-square"></a>
@@ -24,7 +24,7 @@
 <a href="https://github.com/Kgtech-cmr/KERM_MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kgtech-cmr/KERM_MD-V2?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Janithsadanuwan/Queen-Nilu-Md/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-        <a href = ""><img alt="KermHack Tools" src="https://img.shields.io/youtube/@CBF_263" target="_blank" /></a>
+        src="https://img.shields.io/youtube/@CBF_263" target="_blank" /></a>
 
 ### 1. FORK THIS REPO
 
@@ -44,7 +44,7 @@
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://t.me/ai_bot_md/213)
 
 ```
-#### DEPLOY TO HEROKU 
+## DEPLOY TO HEROKU 
 
 1. If You don't have a account in Heroku. Create a account.
     <br>
@@ -99,4 +99,3 @@
 * [`ᴛᴇʟᴇɢʀᴀᴍ`](https://t.me/@tcronebnet)
 * [`ᴛᴄʀᴏɴᴇʙ`](https://wa.me/263716394979?text=Hi+Bro+ɪᴍ+Big+Fan😍)
  </details>
- 
