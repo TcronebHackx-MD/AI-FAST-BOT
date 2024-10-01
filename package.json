@@ -1,15 +1,15 @@
 {
-  "name": "AI-BOT-MD V1.9",
+  "name": "AI-BOT-MD",
   "version": "10.8.1",
   "description": "MEGAMIND MULTIPLE AI-BOT-MD-1.9 WHATSAPP BOT",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name AI-BOT-MD V1.9",
-    "stop": "pm2 stop AI-BOT-MD V1.9",
-    "restart": "pm2 restart AI-BOT-MD V1.9"
+    "start": "pm2 start index.js --deep-monitoring --attach --name AI-BOT-MD",
+    "stop": "pm2 stop AI-BOT-MD",
+    "restart": "pm2 restart AI-BOT-MD"
   },
-  "keywords": ["ai-bot-md v1.9", "whatsapp-bot", "whatsapp md bot"],
+  "keywords": ["ai-bot-md", "whatsapp-bot", "whatsapp md bot"],
   "author": "TcronebHackx-MD",
   "license": "ISC",
   "dependencies": {
