@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name AI-MD V1.9",
+    "start": "pm2 start index.js --deep-monitoring --attach --name AI-BOT-MD V1.9",
     "stop": "pm2 stop AI-BOT-MD V1.9",
     "restart": "pm2 restart AI-BOT-MD V1.9"
   },
