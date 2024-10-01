@@ -76,14 +76,14 @@ async function start() {
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["HANSAMAL-MD", "safari", "3.3"],
+            browser: ["AI-BOT-MD V1.9", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
                     const msg = await store.loadMessage(key.remoteJid, key.id);
                     return msg.message || undefined;
                 }
-                return { conversation: "HANSAMAL-MD whatsapp user bot" };
+                return { conversation: "AI-BOT-MD V1.9 whatsapp user bot" };
             }
         });
 
