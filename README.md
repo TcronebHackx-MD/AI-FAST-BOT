@@ -24,8 +24,7 @@
 <a href="https://github.com/Kgtech-cmr/KERM_MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kgtech-cmr/KERM_MD-V2?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Janithsadanuwan/Queen-Nilu-Md/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-        src="https://img.shields.io/youtube/@CBF_263" target="_blank" /></a>
-
+        
 ### 1. FORK THIS REPO
 
 <a href='https://github.com/TcronebHackx-MD/THE-FAST-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
@@ -41,9 +40,8 @@
 <a href="https://kerm-session-39mi.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a> 
 
 ## How To Deploy On Github.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://t.me/ai_bot_md/213)
+* [![TELEGRAM](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=telegram&logoColor=green)](https://t.me/ai_bot_md/213)
 
-```
 ## DEPLOY TO HEROKU 
 
 1. If You don't have a account in Heroku. Create a account.
