@@ -100,7 +100,7 @@ let mode = ethix.public ? 'public' : 'private';
 ╰─────────────━┈⊷ `
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: "© Powered By AI-BOT-MD V1.9"
+              text: "© Powered By 𝐀𝐈-𝐁𝐎𝐓-𝗠𝗗 𝐕1.9"
             }),
             header: proto.Message.InteractiveMessage.Header.create({
                 ...(await prepareWAMessageMedia({ image : fs.readFileSync('./src/HANSAMAL.jpg')}, { upload: Matrix.waUploadToServer})), 
@@ -116,67 +116,67 @@ let mode = ethix.public ? 'public' : 'private';
                   "buttonParamsJson": `{"title":"ᴛᴀᴘ ʜᴇʀᴇ",
                  "sections":
                    [{
-                    "title":"ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ ᴍᴇɴᴜ",
+                    "title":"AI-BOT-MD ᴍᴇɴᴜ",
                     "highlight_label":"ᴀʟʟ ᴍᴇɴᴜ",
                     "rows":[
                       {
                        "header":"",
                        "title":"ᴀʟʟ ᴍᴇɴᴜ",
-                       "description":"ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ",
+                       "description":"AI-BOT-MD",
                        "id":"View All Menu"
                       },
                       {
                         "header":"",
                         "title":"ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴇɴᴜ",
-                        "description":"ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ",
+                        "description":"AI-BOT-MD",
                         "id":"Downloader Menu"
                       },
                       {
                         "header":"",
                         "title":"ɢʀᴏᴜᴘ ᴍᴇɴᴜ",
-                        "description":"ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ",
+                        "description":"AI-BOT-MD",
                         "id":"Group Menu"
                       },
                       {
                         "header":"",
                         "title":"ᴛᴏᴏʟ ᴍᴇɴᴜ",
-                        "description":"ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ",
+                        "description":"AI-BOT-MD",
                         "id":"Tool Menu"
                       },
                       {
                         "header":"",
                         "title":"ᴍᴀɪɴ ᴍᴇɴᴜ",
-                        "description":"ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ",
+                        "description":"AI-BOT-MD",
                         "id":"Main Menu"
                       },
                      {
                         "header":"",
                         "title":"ᴏᴡɴᴇʀ ᴍᴇɴᴜ",
-                        "description":"ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ",
+                        "description":"AI-BOT-MD",
                         "id":"Owner Menu"
                       },
                       {
                         "header":"",
                         "title":"ᴀɪ ᴍᴇɴᴜ",
-                        "description":"ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ",
+                        "description":"AI-BOT-MD",
                         "id":"Ai Menu"
                       },
                       {
                         "header":"",
                         "title":"ꜱᴇᴀʀᴄʜ ᴍᴇɴᴜ",
-                        "description":"ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ",
+                        "description":"AI-BOT-MD",
                         "id":"Search Menu"
                       },
                       {
                         "header":"",
                         "title":"ꜱᴛᴀʟᴋ ᴍᴇɴᴜ",
-                        "description":"ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ",
+                        "description":"AI-BOT-MD",
                         "id":"Stalk Menu"
                       },
                       {
                         "header":"",
                         "title":"ᴄᴏɴᴠᴇʀᴛᴇʀ ᴍᴇɴᴜ",
-                        "description":"ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ",
+                        "description":"AI-BOT-MD",
                         "id":"Converter Menu"
                       }
                     ]}
@@ -190,7 +190,7 @@ let mode = ethix.public ? 'public' : 'private';
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '',
-                  newsletterName: "AI-BOT-MD V1.9",
+                  newsletterName: "AI-BOT-MD",
                   serverMessageId: 143
                 }
               }
@@ -323,8 +323,8 @@ let mode = ethix.public ? 'public' : 'private';
             },
             message: {
                 contactMessage: {
-                    displayName: `AI-BOT-MD V1.9`,
-                    vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:'HANSAMAL-MD'\nitem1.TEL;waid=${
+                    displayName: `AI-BOT-MD`,
+                    vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:'AI-BOT-MD'\nitem1.TEL;waid=${
                         m.sender.split("@")[0]
                     }:${
                         m.sender.split("@")[0]
@@ -341,7 +341,7 @@ let mode = ethix.public ? 'public' : 'private';
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '',
-                  newsletterName: "AI-BOT-MD V1.9",
+                  newsletterName: "AI-BOT-MD",
                   serverMessageId: 143
                 }
               }
@@ -380,7 +380,7 @@ await Matrix.sendMessage(m.from, {
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '',
-                  newsletterName: "AI-BOT-MD V1.9",
+                  newsletterName: "AI-BOT-MD",
                   serverMessageId: 143
                 }
               }
@@ -446,7 +446,7 @@ await Matrix.sendMessage(m.from, {
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '',
-                  newsletterName: "AI-BOT-MD V1.9",
+                  newsletterName: "AI-BOT-MD",
                   serverMessageId: 143
                 }
               }
@@ -485,7 +485,7 @@ await Matrix.sendMessage(m.from, {
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '',
-                  newsletterName: "AI-BOT-MD V1.9",
+                  newsletterName: "AI-BOT-MD",
                   serverMessageId: 143
                 }
               }
@@ -521,7 +521,7 @@ await Matrix.sendMessage(m.from, {
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '',
-                  newsletterName: "AI-BOT-MD V1.9",
+                  newsletterName: "AI-BOT-MD",
                   serverMessageId: 143
                 }
               }
@@ -549,7 +549,7 @@ await Matrix.sendMessage(m.from, {
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '',
-                  newsletterName: "AI-BOT-MD V1.9",
+                  newsletterName: "AI-BOT-MD",
                   serverMessageId: 143
                 }
               }
@@ -580,7 +580,7 @@ await Matrix.sendMessage(m.from, {
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '',
-                  newsletterName: "AI-BOT-MD V1.9",
+                  newsletterName: "AI-BOT-MD",
                   serverMessageId: 143
                 }
               }
@@ -612,7 +612,7 @@ await Matrix.sendMessage(m.from, {
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '',
-                  newsletterName: "AI-BOT-MD V1.9",
+                  newsletterName: "AI-BOT-MD",
                   serverMessageId: 143
                 }
               }
@@ -645,7 +645,7 @@ await Matrix.sendMessage(m.from, {
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '',
-                  newsletterName: "AI-BOT-MD V1.9",
+                  newsletterName: "AI-BOT-MD",
                   serverMessageId: 143
                 }
               }
